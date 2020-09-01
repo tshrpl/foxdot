@@ -1,0 +1,18 @@
+
+
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pyinstaller = "*"
+
+[packages]
+
+[requires]
+python_version = "3.7"
+
+[scripts]
+setup-env='bash .sublime/setup.sh' # setup some things in sublime text
+

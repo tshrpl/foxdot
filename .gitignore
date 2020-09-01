@@ -1,0 +1,12 @@
+
+
+
+# virtual env stuff
+.venv/
+
+
+# environment junk
+.sublime/workspaces/
+.sublime/groups/
+
+
